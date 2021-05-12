@@ -1,3 +1,7 @@
+<img src="https://i.imgur.com/nndGFQC.png" alt="primeira tela do app" align="right" height="600" width="auto">
+
+
+
 # Projeto de Calculadora de IMC / BMI Calculator Project
 
 Calculadora de IMC - Índice de Massa Corporal / BMI Calculator - Body Mass Index
